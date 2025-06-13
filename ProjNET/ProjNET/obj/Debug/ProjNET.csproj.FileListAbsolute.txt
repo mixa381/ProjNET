@@ -1,0 +1,14 @@
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\bin\Debug\ProjNET.exe.config
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\bin\Debug\ProjNET.exe
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\bin\Debug\ProjNET.pdb
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.csproj.AssemblyReference.cache
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.Form1.resources
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.Properties.Resources.resources
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.csproj.GenerateResource.cache
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.csproj.CoreCompileInputs.cache
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.csproj.Up2Date
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.exe
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.pdb
+C:\Users\mihajloPC\source\repos\ProjNET\ProjNET\obj\Debug\ProjNET.exe.config
